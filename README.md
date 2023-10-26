@@ -1,2 +1,2 @@
-# stolen_project
-It's a project for recognise a handwrite number. I downloaded the source code. But I forgot where I found it. That's all.
+# xuanke_form
+It's a Vue training project. Aim to build an App to collect the information. With them one can find a team/teammate for a certain course.
